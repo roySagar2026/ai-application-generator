@@ -589,8 +589,6 @@ ai-application-generator/
     ├── requirements.txt
     ├── .env                      # Backend environment variables (not committed)
     ├── .env.example
-    └── tests/
-        └── test_pipeline.py
 ```
 
 | File | Purpose |
